@@ -1,0 +1,32 @@
+package collectionsession;
+
+import java.util.LinkedList;
+
+public class LinkedListConcept {
+
+	public static void main(String[] args) {
+		
+		
+		
+		LinkedList<String> ll=new LinkedList<String>();
+		
+		//add:
+		ll.add("test");
+		ll.add("qtp");
+		ll.add("Selenium");
+		ll.add("Rft");
+		System.out.println("content of linklist:"+ll);
+		ll.addFirst("Sanjeev");
+		ll.addLast("Automation");
+		System.out.println("content of linked list"+ll);
+		//get
+		System.out.println(ll.get(0));
+		//set
+		ll.set(0, "Tom");
+		System.out.println(ll.get(0));
+		
+		
+
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;ecommerceAutomation&apos;&#x0A;- Original project: &apos;ecommerceAutomation&apos;&#x0A;- Original element: &apos;ecommerceAutomation/src/main/java/EcommerceAutomation.ecommerceAutomation&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;EcommerceAutomation.ecommerceAutomation" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;EcommerceAutomation" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1644919782870" subPackages="false" version="1.0"/>
+</session>

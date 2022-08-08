@@ -1,0 +1,77 @@
+package sanjeevacademy;
+
+import java.net.MalformedURLException;
+import java.net.URL;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.remote.CapabilityType;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+public class appiumbasics {
+	WebDriver driver;
+	//AndroidDriver driver;
+	@BeforeClass
+	 public void setUp() throws Exception {
+	 
+	//location of the app
+	// File app = new File("C:\\Users\\NEERAJ\\Downloads", "ContactManager.apk");
+		//File app = new File("//Users//bitbyte//eclipse-workspace//AppiumAutomation//src//test//java//resources//ApiDemos-debug.apk");
+		  
+	  
+	 //To create an object of Desired Capabilities
+	 DesiredCapabilities capability = new DesiredCapabilities();
+	//OS Name
+	 capability.setCapability("device","Android");
+	 //capability.setCapability(CapabilityType.BROWSER_NAME, "");
+	//Mobile OS version. In My case its running on Android 4.2
+	 capability.setCapability(CapabilityType.VERSION, "10");
+	 //capability.setCapability("app", app.getAbsolutePath());
+	 capability.setCapability("app","/Users/bitbyte/Desktop/ApiDemos-debug.apk");
+	 
+	//To Setup the device name
+	 capability.setCapability("deviceName","Pixel 2");
+	 capability.setCapability("platformName","Android");
+	//set the package name of the app
+	 capability.setCapability("app-package", "io.appium.android.apis");
+	 //set the Launcher activity name of the app
+	 capability.setCapability("app-activity", ".view.TextFields");
+	 
+	//driver object with new Url and Capabilities
+     driver = new RemoteWebDriver(new URL("http://127.0.0.1:4723/wd/hub"), capability);
+		 //driver=new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"),capability);
+	 }
+	
+		  
+		 
+		 
+		 
+		  
+		  //"appium:automationName": "UiAutomator2",
+		  
+		
+	 
+	
+	
+	@Test
+	public void AppiumTest() throws MalformedURLException {
+		//UiAutomator2Options options=new UiAutomator2Options(); 
+		//options.setDeviceName("Android Device");
+		//options.setApp("//Users//bitbyte//eclipse-workspace//AppiumAutomation//src//test//java//resources//ApiDemos-debug.apk");
+		//Actual Automation
+		//xpath,id,accessibilityid,classname,androiduiautomater
+		
+		System.out.println("HelloTest");
+		
+		
+		
+		
+		//AndroidDriver driver=new AndroidDriver(new URL("http://127.0.0.1:4723"),options);
+		//driver.quit();
+		
+	}
+	
+
+}
