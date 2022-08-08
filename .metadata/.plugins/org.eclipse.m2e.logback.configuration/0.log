@@ -10900,3 +10900,11 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.gu
 2022-08-08 10:25:42,579 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-08-08 10:25:42,579 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/test/resources
 2022-08-08 10:26:45,737 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-08 10:38:35,728 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 10:38:35,730 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/main/resources
+2022-08-08 10:38:35,734 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 10:38:35,735 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/test/resources
+2022-08-08 10:51:52,116 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 10:51:52,121 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/main/resources
+2022-08-08 10:51:52,123 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 10:51:52,123 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/test/resources
