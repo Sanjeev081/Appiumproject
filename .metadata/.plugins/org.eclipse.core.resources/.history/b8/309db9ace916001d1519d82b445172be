@@ -1,12 +1,13 @@
 package sanjeevacademy;
 
 import java.io.File;
+import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.UUID;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
@@ -47,8 +48,6 @@ public class appiumbasics {
 	//driver object with new Url and Capabilities
      driver = new RemoteWebDriver(new URL("http://127.0.0.1:4723/wd/hub"), capability);
 		 //driver=new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"),capability);
-     File file  = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-     FileUtils.copyFile(file, new File("Screenshot.jpg"));
 	 }
 	
 		  
@@ -75,7 +74,6 @@ public class appiumbasics {
 		
 		
 		
-		
 		//AndroidDriver driver=new AndroidDriver(new URL("http://127.0.0.1:4723"),options);
 		//driver.quit();
 
@@ -83,7 +81,13 @@ public class appiumbasics {
 		//System.out.println("firstappium TestHelloTest1");
 		
 	}
-	
+	@Test
+	public void screenshot(String path_screenshot) throws IOException{
+	    File srcFile=((RemoteWebDriver) driver).getScreenshotAs(OutputType.FILE);
+	    String filename=UUID.randomUUID().toString(); 
+	    File targetFile=new File(path_screenshot + "/Users/bitbyte/eclipse-workspace/AppiumAutomation/src/test/java/sanjeevacademy" +".jpg");
+	    FileUtils.copyFile(srcFile,targetFile);
+	}
 	
 
 }

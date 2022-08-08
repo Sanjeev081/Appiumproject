@@ -10916,3 +10916,35 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.gu
 2022-08-08 11:13:26,171 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/main/resources
 2022-08-08 11:13:26,175 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-08-08 11:13:26,176 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/test/resources
+2022-08-08 12:09:01,794 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 12:09:01,857 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/main/resources
+2022-08-08 12:09:01,858 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 12:09:01,859 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/test/resources
+2022-08-08 12:09:30,194 [Worker-30: Launching appiumbasics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 12:09:30,218 [Worker-30: Launching appiumbasics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/main/resources
+2022-08-08 12:09:30,221 [Worker-30: Launching appiumbasics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 12:09:30,221 [Worker-30: Launching appiumbasics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/test/resources
+2022-08-08 12:44:00,325 [Worker-49: Launching appiumbasics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 12:44:00,327 [Worker-49: Launching appiumbasics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/main/resources
+2022-08-08 12:44:00,331 [Worker-49: Launching appiumbasics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 12:44:00,331 [Worker-49: Launching appiumbasics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/test/resources
+2022-08-08 13:06:40,461 [Worker-48: Launching appiumbasics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 13:06:40,463 [Worker-48: Launching appiumbasics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/main/resources
+2022-08-08 13:06:40,470 [Worker-48: Launching appiumbasics] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 13:06:40,473 [Worker-48: Launching appiumbasics] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/test/resources
+2022-08-08 13:10:46,222 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 13:10:46,224 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/main/resources
+2022-08-08 13:10:46,225 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 13:10:46,226 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/test/resources
+2022-08-08 13:11:53,972 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 13:11:53,980 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/main/resources
+2022-08-08 13:11:53,984 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 13:11:53,984 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/test/resources
+2022-08-08 13:27:20,882 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 13:27:20,883 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/main/resources
+2022-08-08 13:27:20,885 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 13:27:20,886 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/test/resources
+2022-08-08 13:28:08,007 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 13:28:08,008 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/main/resources
+2022-08-08 13:28:08,016 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 13:28:08,016 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/test/resources
