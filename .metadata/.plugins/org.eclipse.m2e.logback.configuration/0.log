@@ -10908,3 +10908,11 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.gu
 2022-08-08 10:51:52,121 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/main/resources
 2022-08-08 10:51:52,123 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-08-08 10:51:52,123 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/test/resources
+2022-08-08 11:08:55,974 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 11:08:55,976 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/main/resources
+2022-08-08 11:08:55,980 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 11:08:55,980 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/test/resources
+2022-08-08 11:13:26,169 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 11:13:26,171 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/main/resources
+2022-08-08 11:13:26,175 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 11:13:26,176 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bitbyte/eclipse-workspace/AppiumAutomation/src/test/resources

@@ -73,7 +73,6 @@ public class appiumbasics {
 		//driver.quit();
 
 		//System.out.println("firstappium TestHelloTest");
-		//System.out.println("firstappium TestHelloTest1");
 		
 	}
 	
